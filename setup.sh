@@ -5,10 +5,6 @@
 echo -e "Script Auto Install Panel By WILDYVPN"
 sleep 5
 
-wget http://marloxxxssh.xyz/ssh-vpn.sh
-chmod +x ssh-vpn.sh
-./ssh-vpn.sh
-
 #Update Dulu Sayang
 apt-get update -y
 apt-get upgrade -y
